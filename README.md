@@ -1,1 +1,1 @@
-# sarit-profile
+<h1 align="center"><img src="(https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=8A0FF7&background=FFB72A00&random=false&width=435&lines=Hi%2C+I+am+a+Junior+web+developer)](https://git.io/typing-svg)"></h1>
