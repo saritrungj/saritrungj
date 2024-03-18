@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2E3NTFndmc5Nmx4ZmFtNDVpZm10Y3Q2eHJueXJ4MjBnamV1ZzU0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
+<img width=200 height=200 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2E3NTFndmc5Nmx4ZmFtNDVpZm10Y3Q2eHJueXJ4MjBnamV1ZzU0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=8A0FF7&background=FFB72A00&random=false&width=435&lines=Hi%2C+I+am+a+Junior+web+developer.">
 </h1>
