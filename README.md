@@ -18,7 +18,7 @@
 
 <h2 align="center">⭐ Stats</h2>
 <br>
-<div align="left">
+<div align="center">
   <img width=390 src="https://streak-stats.demolab.com?user=saritrungj&theme=dark&ring=A50EEB&fire=EB07AA&currStreakLabel=EB07AA" alt="GitHub Streak" />
   <br>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saritrungj&theme=radical" alt="top langs" />
