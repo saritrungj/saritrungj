@@ -11,9 +11,9 @@
   ✨I'm currently learning about <b>Intermediate JavaScript, ExpressJS, ReactJS</b>
 </div>
 
-<h2 align="center">💻 Languages,Frameworks and Tools</h2>
+<h2 align="center">💻 Languages, Frameworks and Tools</h2>
 <br>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,html,css,javascript,php,nodejs,vite,mysql,vscode,git,github,windows"/>
 </div>
 
