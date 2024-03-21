@@ -14,7 +14,7 @@
 <h2 align="center">💻 Languages, Frameworks and Tools</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,html,css,javascript,reactjs,php,nodejs,vite,mysql,vscode,git,github,windows"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,html,css,javascript,react.js,php,nodejs,vite,mysql,vscode,git,github,windows"/>
 </div>
 
 <h2 align="center">⭐ Stats</h2>
