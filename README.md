@@ -8,13 +8,13 @@
 <br>
 <div align="left">
   ✨I'm currently hiring for <b>frontend web developer jobs.</b> <br>
-  ✨I'm currently learning about <b>Intermediate JavaScript, ExpressJS, ReactJS</b>
+  ✨I'm currently learning about <b>ReactJS, ExpressJS, NextJS, Learn about Css preprocessor </b>
 </div>
 
 <h2 align="center">💻 Languages, Frameworks and Tools</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,html,css,javascript,php,nodejs,vite,mysql,vscode,git,github,windows"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,html,css,javascript,reactjs,php,nodejs,vite,mysql,vscode,git,github,windows"/>
 </div>
 
 <h2 align="center">⭐ Stats</h2>
