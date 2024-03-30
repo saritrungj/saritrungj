@@ -7,7 +7,7 @@
 <h2 align="center">📚 What am doing currently?</h2>
 <br>
 <div align="left">
-  ✨I'm currently hiring for <b>frontend web developer jobs.</b> <br>
+  ✨I'm currently looking for <b>frontend web developer jobs.</b> <br>
   ✨I'm currently learning about <b>ReactJS, ExpressJS, NextJS, Learn about Css preprocessor </b>
 </div>
 
