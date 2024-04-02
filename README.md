@@ -8,7 +8,7 @@
 <br>
 <div align="left">
   ✨I'm currently looking for <b>frontend web developer jobs.</b> <br>
-  ✨I'm currently learning about <b>ReactJS, ExpressJS, NextJS, Learn about Css preprocessor </b>
+  ✨I'm currently learning about <b>ExpressJS, NextJS, MongoDB, PostgreSQL, CSS Preprocessor </b>
 </div>
 
 <h2 align="center">💻 Languages, Frameworks and Tools</h2>
