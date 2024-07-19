@@ -7,8 +7,8 @@
 <h2 align="center">📚 What am doing currently?</h2>
 <br>
 <div align="left">
-  ✨I'm currently looking for <b>frontend web developer job.</b> <br>
-  ✨I'm currently learning about <b>ExpressJS, NextJS, MongoDB, PostgreSQL, CSS Preprocessor </b>
+  ✨Currently I'm working As Web Master.</b> <br>
+  ✨I'm currently learning about <b>AngularJS, ExpressJS, NextJS, MongoDB, PostgreSQL, CSS Preprocessor </b>
 </div>
 
 <h2 align="center">💻 Languages, Frameworks and Tools</h2>
