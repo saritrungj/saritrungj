@@ -15,7 +15,7 @@
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,html,css,js,react,angular,php,nodejs,mysql"/> <br />
-    <img src="https://skillicons.dev/icons?i=npm,vite,postman,git,github,chatgpt,cluade,line,vscode,windows"/>
+    <img src="https://skillicons.dev/icons?i=npm,vite,postman,git,github,vscode,windows"/>
 </div>
 
 <h2 align="center">⭐ Stats</h2>
