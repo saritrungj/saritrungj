@@ -8,13 +8,13 @@
 <br>
 <div align="left">
   ✨Currently I'm working As Web Master.</b> <br>
-  ✨I'm currently learning about <b>AngularJS, ExpressJS, NextJS, MongoDB, PostgreSQL, CSS Preprocessor </b>
+  ✨I'm currently learning about <b>NextJS, MongoDB, PostgreSQL, CSS Preprocessor </b>
 </div>
 
 <h2 align="center">💻 Languages, Frameworks and Tools</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,daisyui,shadcn,html,css,js,react,angular,php,nodejs,mysql"/> <br />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,html,css,js,react,angular,php,nodejs,mysql"/> <br />
     <img src="https://skillicons.dev/icons?i=npm,vite,postman,git,github,vscode,windows"/>
 </div>
 
