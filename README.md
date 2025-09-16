@@ -8,7 +8,7 @@
 <br>
 <div align="left">
   ✨Currently I'm working As Web Master.</b> <br>
-  ✨I'm currently learning about <b>NextJS, MongoDB, PostgreSQL, CSS Preprocessor </b>
+  ✨I'm currently learning about <b>Vue, Nuxt, Prisma, TanStack, and more modern web devlopement</b>
 </div>
 
 <h2 align="center">💻 Languages, Frameworks and Tools</h2>
