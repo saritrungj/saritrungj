@@ -14,7 +14,7 @@
 <h2 align="center">💻 Languages, Frameworks and Tools</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,html,css,js,react,angular,php,nodejs,mysql"/> <br />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,html,css,js,vue,nuxt,react,angular,php,nodejs,mysql"/> <br />
     <img src="https://skillicons.dev/icons?i=npm,vite,postman,git,github,vscode,windows"/>
 </div>
 
