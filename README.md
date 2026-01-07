@@ -14,8 +14,8 @@
 <h2 align="center">💻 Languages, Frameworks and Tools</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,html,css,js,vue,nuxt,angular,php,nodejs,mysql"/> <br />
-    <img src="https://skillicons.dev/icons?i=npm,bun,vite,postman,git,github,vscode,windows"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,html,css,js,vue,angular,php,nodejs,mysql"/> <br />
+    <img src="https://skillicons.dev/icons?i=npm,vite,postman,git,gitlab,sourcetree,github,vscode,windows"/>
 </div>
 
 <h2 align="center">⭐ Stats</h2>
