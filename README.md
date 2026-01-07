@@ -17,9 +17,3 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,html,css,js,vue,angular,php,nodejs,mysql"/> <br />
     <img src="https://skillicons.dev/icons?i=npm,vite,postman,git,gitlab,github,vscode,windows"/>
 </div>
-
-<h2 align="center">⭐ Stats</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=saritrungj" alt="GitHub Streak" />
-</div>
